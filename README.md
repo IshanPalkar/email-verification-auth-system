@@ -145,8 +145,6 @@ PORT=3000
 
 MONGO_URI=mongodb://127.0.0.1:27017/email-verification
 
-JWT_SECRET=your_secret_key
-
 EMAIL_USER=your_email@gmail.com
 EMAIL_PASS=your_app_password
 ```
